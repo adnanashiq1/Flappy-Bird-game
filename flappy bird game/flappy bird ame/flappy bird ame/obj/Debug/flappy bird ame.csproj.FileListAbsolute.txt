@@ -1,0 +1,11 @@
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\bin\Debug\flappy bird ame.exe.config
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\bin\Debug\flappy bird ame.exe
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\bin\Debug\flappy bird ame.pdb
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy bird ame.csproj.AssemblyReference.cache
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy_bird_ame.Form1.resources
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy_bird_ame.Properties.Resources.resources
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy bird ame.csproj.GenerateResource.cache
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy bird ame.csproj.CoreCompileInputs.cache
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy bird ame.exe
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy bird ame.pdb
+C:\Users\ares2\OneDrive\Desktop\flappy bird game\flappy bird ame\flappy bird ame\obj\Debug\flappy bird ame.exe.config
